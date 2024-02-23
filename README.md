@@ -12,6 +12,11 @@ No guarantee is given. Use at your own risk.
 
 Please give attributions to the previous authors.
 
+VIDEO INTRODUCTION
+
+Here you will find the video introduction for the SOMAS project HOW TOS.
+
+https://www.youtube.com/watch?v=yIskSeGRdeA&ab_channel=SebastianGonzalezDixon
 
 WHAT IS SOMAS?
 
@@ -27,11 +32,33 @@ From here you are able to go inside any of the SOMA containers, in the operators
 
 To create and modify the Controls, you need to go inside the containerControls1, containerControls2, containerControls3, etc, and create the buttons and sliders you need, and connect them through code following the same structure as the other sliders and buttons to communicate with their relative conteinerVisual.
 
-VIDEO INTRODUCTION
 
-Here you will find the video introduction for the SOMAS project HOW TOS.
 
+ESPAÑOL
+
+¿QUÉ ES SOMAS?
+
+SOMAS es una herramienta de interfaz de VJing para ayudar a configurar los algoritmos de vídeo generativo para un set de VJ o un programa de vídeo en vivo con Touchdesigner. SOMAS significa Setian Organic Machines, mientras que Setian significa Señales, Electrónica, Tecno, Interactivo, Arte y Redes.
+
+La idea detrás de SOMAS es proporcionar un marco flexible y estable para alojar sus propios procesos de vídeo. Proporciona una interfaz intuitiva y fácil de personalizar con contenedores listos para usar y modificar, que están estratégicamente conectados a la interfaz para que no tenga que preocuparse por lidiar con la carga de su CPU cuando tiene muchos SOMAS al mismo tiempo.
+
+¿CÓMO UTILIZAR?
+
+El contenedor principal del proyecto, llamado Setian_VOM, contiene la INTERFAZ SOMAS y contiene todo el código. Para usarlo, véalo como una ventana separada, haga clic derecho sobre el nombre de Setian_VOM y seleccione la opción de visualización. Encontrarás una interfaz visual, como un software de VJing muy básico. Aquí tienes tres secciones principales. A la derecha están todos los diferentes SOMAS que están disponibles en tu set. A la izquierda tienes los controles para el SOMA activo, y en el centro tienes la fuente de salida principal y postprocesamiento de la señal de vídeo, que es común para todos los SOMAS.
+
+Desde aquí puede ingresar a cualquiera de los contenedores SOMA, en los operadores llamados contenedorVisual1, contenedorVisual2, contenedorVisual3, etc., y cambiarlos de la forma que desee o necesite. Sólo asegúrese de mantener el operador "NullFinal" y el operador de texto "bg".
+
+Para crear y modificar los controles, debe ingresar a ContainerControls1, ContainerControls2, ContainerControls3, etc., crear los botones y controles deslizantes que necesita y conectarlos a través del código siguiendo la misma estructura que los otros controles deslizantes y botones para comunicarse con sus respectivos controles. contenedorVisual.
+
+VÍDEO INTRODUCCIÓN
+
+Aquí encontrará el vídeo de introducción al proyecto SOMAS HOW TOS.
+
+https://www.youtube.com/watch?v=yIskSeGRdeA&ab_channel=SebastianGonzalezDixon
+
+Creative Commons Sebastián González Dixon 2024
 
 
 Creative Commons
+
 Sebastian Gonzalez Dixon 2024
