@@ -1,4 +1,7 @@
 SOMAS
+
+v4.12
+
 Setian Organic Machines
 
 This is the first open version of the Somas: Visual interfaces for VJing, Projection Mapping, and Generative Video.
