@@ -4,7 +4,10 @@ v4.12
 
 Setian Organic Machines
 
-GITHUN DOWNLOAD: GO TO github.com/sunsetian/somas
+GITHUN DOWNLOAD:
+
+https://github.com/sunsetian/somas
+
 
 This is the first open version of the Somas: Visual interfaces for VJing, Projection Mapping, and Generative Video.
 
