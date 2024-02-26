@@ -19,6 +19,11 @@ Please give attributions to the previous authors.
 
 ---
 
+VIDEO GUIA
+
+https://www.youtube.com/watch?v=yIskSeGRdeA&ab_channel=SebastianGonzalezDixon
+
+
 ESPAÑOL
 
 ¿QUÉ ES SOMAS?
@@ -55,6 +60,10 @@ From here you can go inside any of the SOMA containers, in the operators called 
 
 To create and modify the Controls, you need to go inside the containerControls1, containerControls2, containerControls3, etc, and create the buttons and sliders you need, and connect them through code following the same structure as the other sliders and buttons to communicate with their relative conteinerVisual.
 
+
+VIDEO GUIDE
+
+https://www.youtube.com/watch?v=yIskSeGRdeA&ab_channel=SebastianGonzalezDixon
 
 ----
 
