@@ -4,7 +4,7 @@ v4.12
 
 Setian Organic Machines
 
-GITHUN DOWNLOAD:
+GITHUB DOWNLOAD:
 
 https://github.com/sunsetian/somas
 
