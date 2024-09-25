@@ -28,7 +28,7 @@ ESPAÑOL
 
 ¿QUÉ ES SOMAS?
 
-SOMAS es una herramienta de interfaces para VJing para ayudarte a configurar los algorítmos de vídeo generativo que conforman un set de VJ o un show de vídeo en vivo con Touchdesigner.
+SOMAS es una herramienta de interfaces de VJing Interactivo (Procedural, Generativo, Audioreactivo, Algorítmico) para ayudarte a configurar los algorítmos de vídeo generativo que conforman un set de VJ o un show de vídeo en vivo con Touchdesigner.
 
 SOMAS significa Setian Organic Machines, donde Setian es la sigla de Señales, Electrónica, Tecnología, Interactividad, Arte y Networks, y el nombre del estudio detras del desarrollo.
 
